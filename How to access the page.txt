@@ -1,0 +1,14 @@
+HOW TO ACCESS THE PAGE
+
+ADMIN:
+Step 1.In the homepage.php in the footer part is an text "|Admin" click it.
+Step 2. You can see the registration for the admin if the admin doesn't have an account.If the admin has already an account click the log in button below the register.
+admin username - admin
+password - 1234
+That' how to access the admin page...
+
+STUDENT:
+Step 1.In the homepage.php there is a log in button at the header click it the fill up the log in form if the student already have an account if not click the register button below the log in button.
+student username- jerald
+password- 1234
+That's how to access the student page... 
